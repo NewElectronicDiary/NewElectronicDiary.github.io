@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(233,236,239);
+}
+
+.block-left{width:50%;height:800px;overflow:auto;float:left;}
+.block-right{width:50%;height:800px;overflow:auto;}
+
+.jumbotron {
+    background-color: blue;
+}
+
